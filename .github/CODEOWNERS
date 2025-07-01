@@ -1,0 +1,15 @@
+* @HelloWRC @hello8693
+
+# 关键文件
+/.github/ @HelloWRC
+/tools/ @HelloWRC
+README.md @HelloWRC
+*.ps1 @HelloWRC
+
+# 构建关键文件
+*.csproj @HelloWRC
+*.props @HelloWRC
+*.targets @HelloWRC
+
+# VuePress 配置
+/src/.vuepress @HelloWRC @hello8693
