@@ -10,7 +10,7 @@ export default defineUserConfig({
     vuePluginOptions: {},
   }),
 
-  dest: "dist",
+  dest: "../../dist",
 
   locales: {
     "/": {
